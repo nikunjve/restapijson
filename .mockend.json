@@ -4,6 +4,11 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "comments": "Comment[]",
+    "companyInfo": {
+                    "size": "string",
+                    "type": "string",
+                    "industry": "string"
+                }
   }
 }
