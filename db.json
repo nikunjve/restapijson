@@ -1,7 +1,4 @@
-{ 
- "result": {
-        "count": 7,
-        "jobs": [
+[
             {
                 "title": "Java Developer",
                 "companyName": "cutssssrt",
@@ -129,5 +126,3 @@
                 "applyLink": "https://dev3.cutshort.io/a/z4ydUoyH"
             }
         ]
-    }
-}
