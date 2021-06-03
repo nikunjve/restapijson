@@ -1,26 +1,14 @@
 {
-    "succes": true,
-    "result": {
-        "count": 7,
-        "jobs": [
-            {
-                "title": "Java Developer",
-                "companyName": "cutssssrt",
-                "companyWebsite": "http://cutshooort.io",
-                "companyLogoUrl": "https://cdn.cutshort.io/public/images/default_company_picture.jpg",
-                "companyInfo": {
-                    "size": "6-50",
-                    "type": "Product",
-                    "industry": ""
+  "Job": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]",
+     "companyInfo": {
+                    "size": "string",
+                    "type": "string",
+                    "industry": "string"
                 },
-                "experience": "3 - 5 yrs",
-                "location": "Remote",
-                "jobDescription": "bdjckacjksa ckjshajk chsajkc hjsakhc jksahc jsah cjsah cjshaj kchsajkhcjkuuiouj jhklscahc klsahcklsahc lsahck ajkschsjak chjsak chjskahc jsak.",
-                "jobCreationDate": "2021-03-08T11:52:25.703Z",
-                "jobUpdationDate": "2021-03-08T13:46:40.076Z",
-                "salary": "20L - 30L per year",
-                "applyLink": "https://dev3.cutshort.io/a/1wmQKaAE"
-            },
-          ]
-    }
+  }
 }
